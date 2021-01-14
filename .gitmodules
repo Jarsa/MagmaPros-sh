@@ -11,3 +11,8 @@
 	path = product-attribute
 	url = git@github.com:jarsa/product-attribute.git
 	branch = 14.0
+
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:jarsa/partner-contact.git
+	branch = 14.0
