@@ -6,3 +6,8 @@
 	path = odoo-utilities
 	url = git@git.vauxoo.com:jarsa/odoo-utilities.git
 	branch = 14.0
+
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:jarsa/product-attribute.git
+	branch = 14.0
