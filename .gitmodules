@@ -31,3 +31,8 @@
 	path = brand
 	url = git@github.com:jarsa/brand.git
 	branch = 14.0
+
+[submodule "credit-control"]
+	path = credit-control
+	url = git@github.com:jarsa/credit-control.git
+	branch = 14.0
