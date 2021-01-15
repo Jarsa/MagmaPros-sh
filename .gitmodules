@@ -36,3 +36,8 @@
 	path = credit-control
 	url = git@github.com:jarsa/credit-control.git
 	branch = 14.0
+
+[submodule "bank-payment"]
+	path = bank-payment
+	url = git@github.com:jarsa/bank-payment.git
+	branch = 14.0
